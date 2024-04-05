@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5647bc8e-db71-4d4a-8cc8-6912d22b71dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class10/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class10/BankUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class10/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class10/CatTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class10/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class10/DotTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class10/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class10/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class10/PhoneIphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class10/PhoneSamsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E10String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E11String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E12StringReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E13StringSplitWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E14StringSplitSentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E1String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E2String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E3String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E4String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E5String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E6String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E7String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E8String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/E9String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class11/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/CalculatorTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/E1StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/E2StringBuilderDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/E3StringBuilderInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/E4StringBuilderInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/PalindromeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/PrinterTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/Task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/Task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/Task6RemoveSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/Task7CountChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/Task8SplitSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/Task9reverseSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/TaskEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/TaskEvenOddTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/TaskNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class12/TaskNumbersTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class13/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class13/T1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class13/T2Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class13/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class13/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class13/Task2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class13/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class13/Task4Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class14/CalcTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class14/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class14/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class14/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class14/E1LocalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class14/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class14/StudentsTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class14/SyntaxEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class14/SyntaxEmployeeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/CatTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/Task1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/Task2Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class15/UserTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/ConstructorTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/E1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/E1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/EmployeeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/NoConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/NoConstructorTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class16/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class17/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class17/AnimalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class17/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class17/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class17/ClassF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class17/ClassX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class17/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class17/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class17/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class17/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review5/E1NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review5/E2NestedLoop2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review5/E3NestedLoop2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review5/E4EnhancedForLoop2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review5/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review5/HumanTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review6/E1String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review6/E3String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review6/E4StringContans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review6/E5StringSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review6/E6StringReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review6/E7StringSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review6/E8StringSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review6/E9MethodTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review6/E9Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review7/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review7/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review7/E1Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review7/E1Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review7/E1MethodsTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review7/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/review7/EmployeeTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ClassRewiew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ClassReview.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/class8/E8_2DArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/class8/E8_2DArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/review4/Array3m.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/review4/Array3m.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ciLYNKK6zE0ByDMx2etrYVXfs4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnimalTester.executor": "Run",
+    "Application.Array1m.executor": "Run",
+    "Application.Array2m.executor": "Debug",
+    "Application.Array3m.executor": "Run",
+    "Application.Array4NestedLoop.executor": "Run",
+    "Application.BankUser.executor": "Run",
+    "Application.BirdTester.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.CalcTester.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CalculatorTester.executor": "Run",
+    "Application.Car.executor": "Run",
+    "Application.CarTester.executor": "Run",
+    "Application.CatTester.executor": "Run",
+    "Application.Chair.executor": "Run",
+    "Application.ClassRewiew.executor": "Run",
+    "Application.ClassX.executor": "Run",
+    "Application.ClassZ.executor": "Run",
+    "Application.ConstructorTester.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.DogTester.executor": "Run",
+    "Application.Donor.executor": "Run",
+    "Application.DotTester.executor": "Run",
+    "Application.DoubleComparison.executor": "Run",
+    "Application.E10ForLoop.executor": "Run",
+    "Application.E10LogicalOr.executor": "Run",
+    "Application.E10RelationalOp.executor": "Run",
+    "Application.E10String.executor": "Run",
+    "Application.E11LogicalAnd.executor": "Run",
+    "Application.E11RelationalOp.executor": "Run",
+    "Application.E11String.executor": "Run",
+    "Application.E12ForLoopCombinedScanner.executor": "Run",
+    "Application.E12RelationalOp.executor": "Run",
+    "Application.E12String.executor": "Run",
+    "Application.E12Switch.executor": "Run",
+    "Application.E13ForLoopCombinedScanner.executor": "Run",
+    "Application.E13RelationalOp.executor": "Run",
+    "Application.E13String.executor": "Run",
+    "Application.E13StringSplitWords.executor": "Run",
+    "Application.E14RelationalOp.executor": "Run",
+    "Application.E14StringSplitSentences.executor": "Run",
+    "Application.E15RelationalOp.executor": "Run",
+    "Application.E16IfElse.executor": "Run",
+    "Application.E17IfElse.executor": "Run",
+    "Application.E18IfElse.executor": "Run",
+    "Application.E19IfElse.executor": "Run",
+    "Application.E1Arrays.executor": "Run",
+    "Application.E1Break.executor": "Run",
+    "Application.E1Demo.executor": "Run",
+    "Application.E1ElseIf.executor": "Debug",
+    "Application.E1Loops.executor": "Run",
+    "Application.E1MethodsTester.executor": "Run",
+    "Application.E1Scanner.executor": "Run",
+    "Application.E1Short.executor": "Run",
+    "Application.E1String.executor": "Run",
+    "Application.E1StringBuilder.executor": "Run",
+    "Application.E1StringBuilderAppend.executor": "Run",
+    "Application.E1TypeCasting.executor": "Run",
+    "Application.E1Variables.executor": "Run",
+    "Application.E1class.executor": "Run",
+    "Application.E2Arrays.executor": "Run",
+    "Application.E2Break.executor": "Run",
+    "Application.E2ElseIf.executor": "Debug",
+    "Application.E2Loops.executor": "Run",
+    "Application.E2Mehtods.executor": "Run",
+    "Application.E2Methods.executor": "Run",
+    "Application.E2NestedLoop2dArray.executor": "Run",
+    "Application.E2Scanner.executor": "Run",
+    "Application.E2Short.executor": "Run",
+    "Application.E2String.executor": "Run",
+    "Application.E2StringBuilder.executor": "Run",
+    "Application.E2StringBuilderDelete.executor": "Run",
+    "Application.E2TypeCasting$E1TypeCasting.executor": "Run",
+    "Application.E2TypeCasting.executor": "Run",
+    "Application.E2Variables.executor": "Run",
+    "Application.E3Arrays.executor": "Run",
+    "Application.E3Break2DArrays.executor": "Run",
+    "Application.E3Loops.executor": "Run",
+    "Application.E3NestedLoop2dArray.executor": "Run",
+    "Application.E3Scanner.executor": "Run",
+    "Application.E3Short.executor": "Run",
+    "Application.E3String.executor": "Run",
+    "Application.E3StringBuilder.executor": "Run",
+    "Application.E3StringBuilderInsert.executor": "Run",
+    "Application.E3Variables.executor": "Run",
+    "Application.E3_2DArrays.executor": "Run",
+    "Application.E4Arrays.executor": "Run",
+    "Application.E4EnhancedForLoop2dArray.executor": "Run",
+    "Application.E4IfStatement.executor": "Run",
+    "Application.E4LogicalOP.executor": "Run",
+    "Application.E4Loops.executor": "Run",
+    "Application.E4NestedIf.executor": "Run",
+    "Application.E4Scanner.executor": "Run",
+    "Application.E4Short.executor": "Run",
+    "Application.E4String.executor": "Run",
+    "Application.E4StringBuilderInsert.executor": "Run",
+    "Application.E4StringConcat.executor": "Run",
+    "Application.E4StringContans.executor": "Run",
+    "Application.E4Variables.executor": "Run",
+    "Application.E4_2DArrays.executor": "Run",
+    "Application.E5.executor": "Run",
+    "Application.E5ArithmeticOperator.executor": "Run",
+    "Application.E5Arrays.executor": "Run",
+    "Application.E5Loops.executor": "Run",
+    "Application.E5PlusOperator.executor": "Run",
+    "Application.E5RelationalOperators.executor": "Run",
+    "Application.E5Short.executor": "Run",
+    "Application.E5String.executor": "Run",
+    "Application.E5StringReplace.executor": "Run",
+    "Application.E5StringSubstring.executor": "Run",
+    "Application.E5Strings.executor": "Run",
+    "Application.E5_2DArrays.executor": "Run",
+    "Application.E6ArithmeticOperator.executor": "Run",
+    "Application.E6Arrays.executor": "Run",
+    "Application.E6IfElseStatement.executor": "Run",
+    "Application.E6LogicalOP.executor": "Run",
+    "Application.E6Loops.executor": "Run",
+    "Application.E6Scanner.executor": "Run",
+    "Application.E6String.executor": "Run",
+    "Application.E6StringReplace.executor": "Run",
+    "Application.E6_2DArrays.executor": "Run",
+    "Application.E7Arrays.executor": "Run",
+    "Application.E7ElseIfStatement.executor": "Run",
+    "Application.E7Scanner.executor": "Run",
+    "Application.E7String.executor": "Run",
+    "Application.E7StringSplit.executor": "Run",
+    "Application.E7_2DArrays.executor": "Run",
+    "Application.E8Arrays.executor": "Run",
+    "Application.E8LogicalNot.executor": "Run",
+    "Application.E8Loops.executor": "Run",
+    "Application.E8NestedIfStatement.executor": "Run",
+    "Application.E8Scanner.executor": "Run",
+    "Application.E8String.executor": "Run",
+    "Application.E8StringSplit.executor": "Run",
+    "Application.E8Type.executor": "Run",
+    "Application.E8WhileLoops.executor": "Run",
+    "Application.E8_2DArrays.executor": "Run",
+    "Application.E9Arrays.executor": "Run",
+    "Application.E9DoLoops.executor": "Run",
+    "Application.E9LogicalOr.executor": "Run",
+    "Application.E9Loops.executor": "Run",
+    "Application.E9MethodTester.executor": "Run",
+    "Application.E9String.executor": "Run",
+    "Application.E9Type.executor": "Run",
+    "Application.EmployeeTester.executor": "Run",
+    "Application.FaceBook.executor": "Run",
+    "Application.FirstProg.executor": "Run",
+    "Application.HumanTester.executor": "Run",
+    "Application.NoConstructorTester.executor": "Run",
+    "Application.PalindromeTester.executor": "Run",
+    "Application.PhoneIphone.executor": "Run",
+    "Application.PhoneSamsung.executor": "Run",
+    "Application.PracticeVariables.executor": "Run",
+    "Application.PrinterTester.executor": "Run",
+    "Application.Review.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.StudentsTester.executor": "Run",
+    "Application.SyntaxEmployeeTester.executor": "Run",
+    "Application.SyntaxProgrammer.executor": "Run",
+    "Application.T1Tester.executor": "Run",
+    "Application.T2Tester.executor": "Run",
+    "Application.Task.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task10.executor": "Run",
+    "Application.Task10ReverseWord.executor": "Run",
+    "Application.Task11.executor": "Run",
+    "Application.Task12.executor": "Run",
+    "Application.Task13.executor": "Run",
+    "Application.Task14.executor": "Run",
+    "Application.Task1Tester.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task2Tester.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.Task4Tester.executor": "Run",
+    "Application.Task5.executor": "Run",
+    "Application.Task5DoWhile.executor": "Run",
+    "Application.Task6.executor": "Run",
+    "Application.Task7.executor": "Run",
+    "Application.Task7CountChar.executor": "Run",
+    "Application.Task8.executor": "Run",
+    "Application.Task9.executor": "Run",
+    "Application.Task9reverseSentence.executor": "Run",
+    "Application.TaskEvenOddTester.executor": "Run",
+    "Application.TaskNumbersTester.executor": "Run",
+    "Application.Teacher.executor": "Run",
+    "Application.TemperatureCHeck.executor": "Run",
+    "Application.TheProgrammer.executor": "Run",
+    "Application.TheProgrammer2.executor": "Run",
+    "Application.UserTester.executor": "Run",
+    "Application.VariableValues.executor": "Run",
+    "Application.Variables.executor": "Run",
+    "Application.class3.executor": "Run",
+    "Application.org.example.class15.Dog.executor": "Run",
+    "Application.org.example.class16.Student.executor": "Run",
+    "Application.org.example.class16.Teacher.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Munkhmandakh/Desktop/IntelliJ IDEA Community Edition 2023.3.4.lnk",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Munkhmandakh\IdeaProjects\SDETJavaBatch19\src\main\java\org\example\class1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.review7" />
+      <recent name="org.example.class17" />
+      <recent name="org.example.class16" />
+      <recent name="org.example.class15" />
+      <recent name="org.example.review6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.E1Demo">
+    <configuration name="BirdTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.class17.BirdTester" />
+      <module name="Maggy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.class17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.class17.Chair" />
+      <module name="Maggy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.class17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.review7.DogTester" />
+      <module name="Maggy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.review7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E1Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.review7.E1Demo" />
+      <module name="Maggy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.review7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E1MethodsTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.review7.E1MethodsTester" />
+      <module name="Maggy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.review7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E1Demo" />
+        <item itemvalue="Application.E1MethodsTester" />
+        <item itemvalue="Application.DogTester" />
+        <item itemvalue="Application.BirdTester" />
+        <item itemvalue="Application.Chair" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5647bc8e-db71-4d4a-8cc8-6912d22b71dc" name="Changes" comment="" />
+      <created>1708589560607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708589560607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class1/VariableValues.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class3/TemperatureCheck.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class6/E5Loops.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/class6/E4Loops.java</url>
+          <line>3</line>
+          <properties class="org.example.class6.E4Loops" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
